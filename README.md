@@ -1,6 +1,4 @@
-# football_analysis
-
-![image](https://github.com/user-attachments/assets/c47d2551-9e18-4759-9e16-696dc3dc0240)
+# Football Analysis - Pitch IQ
 
 Project description: 
 
@@ -8,15 +6,15 @@ Our project relies on the collection and analysis of matches, players, and team 
 
 Group members: 
 
-Ali A.Hussain (Project manager),
+Ali A.Hussain (Project manager)
 
-Saud Alasiri,
+Saud Alasiri (Team member)
 
-Abdulrahmann A.Qadar,
+Abdulrahmann A.Qadar (Team member)
 
-Yusuf Abdulraoof
+Yusuf Abdulraoof (Team member)
 
-
+![image](https://github.com/user-attachments/assets/c47d2551-9e18-4759-9e16-696dc3dc0240)
 
 
 
