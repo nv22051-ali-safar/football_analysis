@@ -12,9 +12,9 @@ Group members:
 
 **Saud Alasiri** (Team member)
 
-**Abdulrahmann A.Qadar** (Team member)
+**Abdul Rahman A.Qadar** (Team member)
 
-**Yousif Abdulraoof** (Team member)
+**Yousif Abdul Raoof** (Team member)
 
 
 
