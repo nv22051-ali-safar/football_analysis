@@ -8,13 +8,13 @@ Our project relies on the collection and analysis of matches, players, and team 
 
 Group members: 
 
-Ali A.Hussain (Project manager)
+**Ali A.Hussain** (Project manager)
 
-Saud Alasiri (Team member)
+**Saud Alasiri** (Team member)
 
-Abdulrahmann A.Qadar (Team member)
+**Abdulrahmann A.Qadar** (Team member)
 
-Yusuf Abdulraoof (Team member)
+**Yusuf Abdulraoof** (Team member)
 
 
 
