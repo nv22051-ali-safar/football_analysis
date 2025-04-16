@@ -4,7 +4,8 @@
 
 Project description: 
 
-Our project relies on the collection and analysis of matches, players, and team data in order to learn and improve performance. It starts with data collection like match statistics, player tracking, and video, and then cleaning and preparing it for precision.
+PitchIQ is a football analysis tool that helps teams track player performance and analyze opponent strategies using advanced technology. It provides real-time insights through video analysis, enabling better decision-making and improved gameplay. With growing interest in sports analytics, PitchIQ aims to revolutionize how teams optimize their performance and strategy.
+
 
 Group members: 
 
